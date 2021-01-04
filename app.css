@@ -1,8 +1,13 @@
+:root {
+    --main-color: #d8eeee;
+}
+
 body {
     margin: 0 auto ;
     font-family: 'Raleway', sans-serif;
     height: 50vh;
     padding: 0;
+    background: linear-gradient(45deg,var(--main-color),#f0d1d1);
 }
 
 header{
