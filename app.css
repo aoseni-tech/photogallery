@@ -5,16 +5,16 @@
 body {
     margin: 0 auto ;
     font-family: 'Raleway', sans-serif;
-    height: 50vh;
     padding: 0;
     background: linear-gradient(45deg,var(--main-color),#f0d1d1);
 }
 
 header{
     width: 30%;
+    margin-top: 3em;
     margin-left: calc(10%/6);
+    margin-bottom: 3em;
     border-bottom: 1px solid grey;
-    
 }
 
 h2 {
@@ -30,13 +30,13 @@ img {
 footer {
     background-color: black;
     color: white;
-    margin-top: 50px;
+    margin-top: 4em;
     margin-bottom: 0;
 }
 
 p {
     margin: 0;
-    padding: 1em;
+    padding: 2em 1em;
     display:inline-block;
 }
 
