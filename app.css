@@ -43,3 +43,6 @@ p {
 p:nth-of-type(2n) {
     float: right;
 }
+#heart {
+    color: #ffd700;
+}
